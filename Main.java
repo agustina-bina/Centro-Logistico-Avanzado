@@ -425,7 +425,7 @@ public class Main {
         System.out.println("Datos de prueba cargados exitosamente.");
     }
 
-    // Metodos auxiliares para leer entrada
+    //auxi para leer entrada
     private static String leerTexto(String mensaje) {
         System.out.print(mensaje);
         return scanner.nextLine().trim();
