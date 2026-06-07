@@ -3,7 +3,7 @@ import java.util.Scanner;
 // Clase principal con el menu de consola
 public class Main {
     // Estructuras de datos
-    private static TablaHash tablaProductos = new TablaHash(1000);
+    private static ArbolBinario tablaProductos = new ArbolBinario();
     private static ColaPrioridad colaStock = new ColaPrioridad(1000);
     private static Cola colaPedidos = new Cola(500);
     private static Pila pilaMovimientos = new Pila(1000);
