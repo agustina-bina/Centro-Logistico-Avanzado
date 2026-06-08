@@ -1,4 +1,4 @@
-git pullimport java.util.Scanner;
+import java.util.Scanner;
 
 public class Main {
 
