@@ -113,7 +113,7 @@ public class ArbolBinario {
     // Obtener todos los productos ordenados por codigo (recorrido in-orden)
     public Producto[] obtenerTodos() {
         Producto[] resultado = new Producto[cantidad];
-        int[] indice = { 0 };  // truco para pasar el indice por referencia
+        int[] indice = { 0 };
         inOrden(raiz, resultado, indice);
         return resultado;
     }
