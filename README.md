@@ -6,5 +6,5 @@ Funcionalidades implementadas en esta segunda etapa: TDA arbol, actualiacion de 
 Link del repositorio: https://github.com/RIPR-Tomi/Centro-Log-stico-Avanzado
 Actividades realizadas por cada integrante: Andrada Tomas: Cola, Grafo, Movimiento.
 Bina Agustina:Cola con Prioridad, Pedido, Pila. 
-De La Fuente Matias: Producto, Arbol.  
+de la Fuente Matías: Producto, Arbol.  
 Colaboracion Conjunta: Main.
